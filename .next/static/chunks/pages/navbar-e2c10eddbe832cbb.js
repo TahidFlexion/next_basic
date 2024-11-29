@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[886],{4053:(_,n,u)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/navbar",function(){return u(1148)}])},1148:(_,n,u)=>{"use strict";u.r(n),u.d(n,{default:()=>s});var r=u(4848),e=u(1392);function s(){return(0,r.jsx)(e.A,{})}}},_=>{var n=n=>_(_.s=n);_.O(0,[636,593,792],()=>n(4053)),_N_E=_.O()}]);
