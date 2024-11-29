@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/authpage": "pages/authpage.js",
+  "/contactus": "pages/contactus.js",
+  "/dummyuser/[userid]": "pages/dummyuser/[userid].js",
+  "/dummyuser": "pages/dummyuser.js",
+  "/gallary": "pages/gallary.js",
+  "/home": "pages/home.js",
+  "/about": "pages/about.js",
+  "/": "pages/index.js",
+  "/navbar": "pages/navbar.js",
+  "/tahid": "pages/tahid.js",
+  "/pagefunctions": "pages/pagefunctions.js",
+  "/todo": "pages/todo.js",
+  "/_error": "pages/_error.js",
+  "/post": "pages/post.js",
+  "/server/[id]": "pages/server/[id].js",
+  "/server": "pages/server.js"
+}
